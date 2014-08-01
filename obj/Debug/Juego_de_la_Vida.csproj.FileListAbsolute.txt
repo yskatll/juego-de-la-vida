@@ -1,0 +1,9 @@
+C:\Users\yskatll\Documents\Proyectos\Juego_de_la_Vida\Juego_de_la_Vida\bin\Debug\Juego_de_la_Vida.exe.config
+C:\Users\yskatll\Documents\Proyectos\Juego_de_la_Vida\Juego_de_la_Vida\bin\Debug\Juego_de_la_Vida.exe
+C:\Users\yskatll\Documents\Proyectos\Juego_de_la_Vida\Juego_de_la_Vida\bin\Debug\Juego_de_la_Vida.pdb
+C:\Users\yskatll\Documents\Proyectos\Juego_de_la_Vida\Juego_de_la_Vida\obj\Debug\Juego_de_la_Vida.csprojResolveAssemblyReference.cache
+C:\Users\yskatll\Documents\Proyectos\Juego_de_la_Vida\Juego_de_la_Vida\obj\Debug\Juego_de_la_Vida.Properties.Resources.resources
+C:\Users\yskatll\Documents\Proyectos\Juego_de_la_Vida\Juego_de_la_Vida\obj\Debug\Juego_de_la_Vida.csproj.GenerateResource.Cache
+C:\Users\yskatll\Documents\Proyectos\Juego_de_la_Vida\Juego_de_la_Vida\obj\Debug\Juego_de_la_Vida.exe
+C:\Users\yskatll\Documents\Proyectos\Juego_de_la_Vida\Juego_de_la_Vida\obj\Debug\Juego_de_la_Vida.pdb
+C:\Users\yskatll\Documents\Proyectos\Juego_de_la_Vida\Juego_de_la_Vida\obj\Debug\Juego_de_la_Vida.frmMain.resources
